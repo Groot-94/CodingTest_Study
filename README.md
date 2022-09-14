@@ -29,7 +29,7 @@
 | -------- | -------- | 
 | 9/11     | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)  | 
 | 9/12     | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)| 
-| 9/13     | | 
+| 9/13     | [정수 제곱근 판별(https://school.programmers.co.kr/learn/courses/30/lessons/12934)]| 
 | 9/14     | | 
 | 9/15     | | 
 </details>
