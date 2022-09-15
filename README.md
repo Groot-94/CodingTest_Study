@@ -31,7 +31,7 @@
 | 9/12     | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)| 
 | 9/13     | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)| 
 | 9/14     | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)| 
-| 9/15     | | 
+| 9/15     | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944), [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)| 
 </details>
 
 ## 🏝 커밋 규칙
