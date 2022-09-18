@@ -32,6 +32,15 @@
 | 9/13     | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)| 
 | 9/14     | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)| 
 | 9/15     | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944), [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)| 
+| 9/18     | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)| 
+| 9/19     | | 
+| 9/20     | | 
+| 9/21     | | 
+| 9/22     | | 
+| 9/23     | | 
+
+
+
 </details>
 
 ## 🏝 커밋 규칙
