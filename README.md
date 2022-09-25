@@ -36,8 +36,10 @@
 | 9/19     | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)| 
 | 9/20     | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)| 
 | 9/21     | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925), [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)| 
-| 9/22     | | 
-| 9/23     | | 
+| 9/22     | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)| 
+| 9/23     | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
+| 9/24     | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)| 
+| 9/25     | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)| 
 
 
 
