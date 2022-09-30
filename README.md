@@ -42,7 +42,9 @@
 | 9/25     | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)| 
 | 9/26     | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)| 
 | 9/27     | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910), [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)| 
-| 9/28     | [음양더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501), [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)| 
+| 9/28     | [음양더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)| 
+| 9/29     | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)| 
+| 9/30     | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)| 
 
 
 
