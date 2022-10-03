@@ -1,4 +1,4 @@
-# 📚 Algorithm_Study 
+# 📚 CodingTest_Study 
 
 ## 🗓 시작 날짜
 #### 2022년 09월 11일 (일) ~
@@ -44,7 +44,9 @@
 | 9/27     | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910), [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)| 
 | 9/28     | [음양더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)| 
 | 9/29     | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)| 
-| 9/30     | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)| 
+| 9/30     | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
+| 10/03     | [없는 숫자 더하기
+](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|
 
 
 
