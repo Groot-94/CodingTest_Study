@@ -45,6 +45,7 @@
 | 9/28     | [음양더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)| 
 | 9/29     | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)| 
 | 9/30     | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)| 
+| 10/3     | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)| 
 
 
 
