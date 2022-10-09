@@ -46,6 +46,10 @@
 | 9/29     | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)| 
 | 9/30     | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
 | 10/03     | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|
+| 10/04     | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|
+| 10/05     | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
+| 10/06     | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
+| 10/07     | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|
 
 
 
