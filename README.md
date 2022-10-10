@@ -49,7 +49,8 @@
 | 10/04     | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|
 | 10/05     | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
 | 10/06     | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
-| 10/07     | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|
+| 10/07     | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
+| 10/10     | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|
 
 
 
