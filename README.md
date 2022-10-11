@@ -51,6 +51,7 @@
 | 10/06     | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
 | 10/07     | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
 | 10/10     | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|
+| 10/11     | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|
 
 
 
