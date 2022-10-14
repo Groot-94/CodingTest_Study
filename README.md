@@ -54,8 +54,7 @@
 | 10/11     | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|
 | 10/12     | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|
 | 10/13     | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|
-
-
+| 10/14     | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|
 
 </details>
 
