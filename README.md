@@ -40,7 +40,6 @@
 | 9/23     | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
 | 9/24     | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)| 
 | 9/25     | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)| 
-| 9/26     | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)| 
 | 9/27     | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910), [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)| 
 | 9/28     | [음양더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)| 
 | 9/29     | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)| 
@@ -73,6 +72,6 @@
 > 각자의 브런치로 이동하여 Commit합니다.
 
 - 폴더구조: 사이트명 > 난이도 or 레벨 `(ex. Programmers > Level_1)`
-- 파일명: 문제명. md `(ex. 2022-9-11_나머지가 1이 되는 수 찾기.md)`
+- 파일명: 문제명. md `(ex. 2022-09-11_나머지가 1이 되는 수 찾기.md)`
 
 - Commit Title: 문제명 `(ex. 나머지가 1이 되는 수 찾기)`
