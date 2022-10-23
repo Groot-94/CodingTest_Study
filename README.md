@@ -55,6 +55,16 @@
 | 10/12     | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|
 | 10/13     | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|
 | 10/14     | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|
+| 10/17     | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|
+| 10/18     | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|
+| 10/19     | [(1차) 비밀 지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|
+| 10/20     | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|
+| 10/21     | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|
+| 10/24     | []()|
+| 10/25     | []()|
+| 10/26     | []()|
+| 10/27     | []()|
+| 10/28     | []()|
 
 </details>
 
