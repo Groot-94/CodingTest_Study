@@ -59,11 +59,11 @@
 | 10/19     | [(1차) 비밀 지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|
 | 10/20     | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|
 | 10/21     | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|
-| 10/24     | []()|
-| 10/25     | []()|
-| 10/26     | []()|
-| 10/27     | []()|
-| 10/28     | []()|
+| 10/24     | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|
+| 10/25     | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|
+| 10/26     | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|
+| 10/27     | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|
+| 10/28     | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|
 
 </details>
 
