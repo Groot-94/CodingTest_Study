@@ -16,8 +16,8 @@
 
 | 난이도  | Programmers |
 |:-------:|:-----------:|
-| Level 1 |     53 문제     |
-| Level 2 |     64 문제     |
+| Level 1 |    53 문제   |
+| Level 2 |    64 문제   |
 
 
 
@@ -64,7 +64,7 @@
 | 10/26     | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|
 | 10/27     | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|
 | 10/28     | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|
-
+| 10/29     | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|
 </details>
 
 ## 🏝 커밋 규칙
