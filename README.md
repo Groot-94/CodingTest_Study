@@ -64,7 +64,12 @@
 | 10/26     | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|
 | 10/27     | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|
 | 10/28     | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|
-| 10/29     | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|
+| 10/31     | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|
+| 11/1     | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|
+| 11/2     | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|
+| 11/3     | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|
+| 11/4     | [[1차]다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|
+
 </details>
 
 ## 🏝 커밋 규칙
