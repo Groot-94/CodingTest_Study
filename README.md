@@ -7,7 +7,7 @@
 ☺️ [그루트](https://github.com/Groot-94), [예톤](https://github.com/yeeton37), [바드](https://github.com/bar-d)
 
 ## 🐳 RULE
-- 매일 매일 한 문제씩 한시간 도전 후 실패시 정답을 보며 풀이하는 것을 목표로 합니다.
+- 매일 매일 한 문제씩 한시간 도전 후 실패시 정답을 보며 풀이하는 것을 목표로 합니다. -> 난이도 상승으로 1주에 3개로 변경합니다.
 - 매일 풀이한 내용을 정리하여 Commit합니다.
 
 ## 📚 현재 목표
@@ -69,7 +69,7 @@
 | 11/2     | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|
 | 11/3     | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|
 | 11/4     | [[1차]다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|
-
+| 11/7 ~ 13| [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484), [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862), [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 </details>
 
 ## 🏝 커밋 규칙
