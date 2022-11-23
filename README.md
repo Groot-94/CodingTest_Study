@@ -71,7 +71,7 @@
 | 11/4     | [[1차]다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|
 | 11/7 ~ 13| [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484), [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862), [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 | 11/14 ~ 20| [[카카오 인턴] 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256), [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061), [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|
-|[11/21 ~ 27]|[푸 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240), [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666), [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+|[11/21 ~ 27]|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240), [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666), [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 </details>
 
 ## 🏝 커밋 규칙
