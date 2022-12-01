@@ -74,6 +74,13 @@
 |11/21 ~ 27|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240), [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666), [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 </details>
 
+<details markdown="2">
+<summary>Level 2</summary>
+
+| 날짜 | 문제 | 
+| -------- | -------- | 
+| 11/28 ~ 12/4|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939), [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951), [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)  | 
+</details>
 ## 🏝 커밋 규칙
 
 > 각자의 브런치로 이동하여 Commit합니다.
