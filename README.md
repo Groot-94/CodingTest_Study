@@ -80,9 +80,10 @@
 | 날짜 | 문제 | 
 | -------- | -------- | 
 | 11/28 ~ 12/4|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939), [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951), [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)  | 
-| 12/5 ~ 12/11|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129), [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)  | 
+| 12/5 ~ 12/11|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129), [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)| 
 
 </details>
+
 ## 🏝 커밋 규칙
 
 > 각자의 브런치로 이동하여 Commit합니다.
