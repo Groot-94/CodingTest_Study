@@ -81,7 +81,10 @@
 | -------- | -------- | 
 | 11/28 ~ 12/4|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939), [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951), [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)  | 
 | 12/5 ~ 12/11|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129), [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|
-| 12/12 ~ 12/18|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911), [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842), [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)| 
+| 12/12 ~ 12/18|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911), [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842), [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|
+| 12/19 ~ 12/25|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981), [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953), [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)| 
+| 12/26 ~ 1/1|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980), [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914), [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|
+| 1/2 ~ 1/8|[[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680), [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)| 
 
 </details>
 
